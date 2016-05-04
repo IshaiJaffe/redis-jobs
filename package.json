@@ -1,6 +1,6 @@
 {
   "name": "redis-jobs",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "redis-jobs ==========",
   "main": "index.js",
   "directories": {
